@@ -6,12 +6,12 @@ module.exports = {
     siteTitleAlt: "SAP Inside Track Brisbane", // Alternative site title for SEO.
   siteLogo:
     "/logos/home.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
-  siteUrl: "https://sitbne.github.", // sitbneDomain of your website without pathPrefix.
-  pathPrefix: "io", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
+  siteUrl: "https://sitbne.github.io", // sitbneDomain of your website without pathPrefix.
+  //pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
   siteDescription: "A local grassroots community event organised where SCN members come together to share knowledge, expertise and network", // Website description used for RSS feeds/meta description tag.
   siteCover: "/images/Brisbane-Logo-Very-Plain.jpg", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
     siteNavigation: true, // If navigation is enabled the Menu button will be visible
-    //siteBanner:"Register now for our upcoming event on February 19th", // Site Banner 
+    siteBanner:"It is with great regret that due to covid-19 restrictions SITBNE is on hold until further notice.  Stay safe folks", // Site Banner 
     //siteBannerUrl: "/february-2020", //Path to page to navigate from Site Banner
   siteRss: "", //"/rss.xml", // Path to the RSS file.
   siteRssAuthor: "", //"Casper User", // The author name used in the RSS file

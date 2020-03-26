@@ -9,7 +9,7 @@ tags:
 
 ---
 
-This is a place holder for our next event on the 20th May 2020.  Watch this space for more updates  
+It is with great regret that due to covid-19 restrictions SITBNE is on hold until further notice.  Stay safe folks.
 
 ## Sponsors
 
